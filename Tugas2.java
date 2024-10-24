@@ -5,9 +5,9 @@ public class Tugas2 {
         Scanner sc = new Scanner(System.in);
         int jmlCabor, jmlAtlit = 5, jmlInstansi;
         String namaCabor, namaAtlet, namaInstansi;
-        System.out.println("-------------------------------------------------------------");
-        System.out.println("--- selamat datang di porseni polinema negeri malang 2024 ---");
-        System.out.println("-------------------------------------------------------------");
+        System.out.println("---------------------------------------------------------------");
+        System.out.println("--- selamat datang di porseni politeknik negeri malang 2024 ---");
+        System.out.println("---------------------------------------------------------------");
         System.out.print("silahkan Masukkan Jumlah Politeknik yang mendaftar : ");
         jmlInstansi = sc.nextInt();
         System.out.print("Masukkan Jumlah Cabor : ");
