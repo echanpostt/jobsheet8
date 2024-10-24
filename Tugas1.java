@@ -9,7 +9,7 @@ public class Tugas1 {
             System.out.print("Masukkan angka minimal 3 ");
             System.out.println("(tekan 0 untuk mengakhiri program):");
             N = sc.nextInt();
-            System.out.println("\nbingkai:");
+            System.out.println("\npersegi:");
             if (N <= 2 && N > 0) {
                 continue;
             }
